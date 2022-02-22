@@ -1,4 +1,4 @@
-# Projeto:  100 Exercícios dePython
+# Projeto:  100 Exercícios de Python
 
 Este projeto começou com o intuito de conhecer o Python, que é uma linguagem de programação importante,
 para a área de Análise de Dados.
