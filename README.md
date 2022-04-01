@@ -9,4 +9,6 @@ para a área de Análise de Dados.
 O Objetivo é conhecer melhor o python e seus comandos, e logo terei um conhecimento da linguaguem,
 tendo facilidade para aprender a analisar os dados com o python, devido a uma base de conhecimento!!!
 
-O mundo um contêm 35 exercícios e completei esse mundo no dia 29/03/2022.
+O Mundo 1 (Conceitos iniciais) contêm 35 exercícios e os exercícios foram realizados do dia 14/02/2022 até 29/03/2022.
+O Mundo 2 (Estruturas de Repetição) contêm mais exercícios e os exercícios começaram dia 30/03/2022.
+
