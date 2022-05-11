@@ -18,7 +18,7 @@ MUNDO 1
    - Primeiros Passos passos no Python: 4 aulas. 
    - Tipos Primitivos e Operadores Aritméticos: 2 aulas. 
    - Módulos: 2 aulas. 
-   - Condições (If, Elif e Else): 1 aula.
+   - Condições (If e Else): 1 aula.
    - Adicionando Cores no Terminal:  Aula Extra.
  - Conteúdo Prático:
    - 2 exercícios Iníciais.
@@ -29,13 +29,23 @@ MUNDO 1
    - 11 aulas Téoricas.
    - 35 exercícios Práticos. 
 - Tempo de Realização:
-   - As aulas e os exercícios foram realizados do dia 14/02/2022 até 29/03/2022.
+   - O Mundo 1 foi realizado do dia 14/02/2022 até 29/03/2022.
 
 MUNDO 2
- - Conteúdo: Estruturas de Repetição (Laço For, While e interrupção com Break).
- - O Mundo 2 contêm 36 exercícios do exercício 36 até o 71.
- - Os exercícios foram realizados do dia 30/03/2022 até 09/05/2022.
- 
+ - Conteúdo Teórico: 
+   - Dicas e Regras: 1 aula.
+   - Condições Aninhadas (If e Elif): 1 aula. 
+   - Repetições com For: 1 aula.
+   - Repetições While e  Interrupção Break: 2 aulas
+ - Conteúdo Prático:
+   - 10 exercícios de Condições Aninhadas.
+   - 11 exercícios de Repetição For.
+   - 15 exercícios de Repetição While e Interrupção Break.
+- Conteúdo Total:
+   - 5 aulas Téoricas.
+   - 36 exercícios Práticos. 
+- Tempo de Realização:
+   - O Mundo 2 foi realizado do dia 30/03/2022 até 09/05/2022. 
 MUNDO 3
  - Conteúdo Teórico: 
    - Tuplas: 1 aula. 
