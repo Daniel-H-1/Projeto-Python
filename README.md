@@ -46,6 +46,7 @@ MUNDO 2
    - 36 exercícios Práticos. 
 - Tempo de Realização:
    - O Mundo 2 foi realizado do dia 30/03/2022 até 09/05/2022. 
+
 MUNDO 3
  - Conteúdo Teórico: 
    - Tuplas: 1 aula. 
