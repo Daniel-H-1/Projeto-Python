@@ -3,7 +3,7 @@
 <p align="center"> OBJETIVO DO PROJETO </p>
 Este projeto começou com o intuito de conhecer o Python, que é uma linguagem de programação importante,
 para a área de Análise de Dados. O Objetivo é conhecer melhor o python e seus comandos, para obter embasamento teórico e prático da linguaguem,
-desse modo ficará mais fácil usar o python para a ánalise dos dados com o python, devido a uma base de conhecimento!!!.
+desse modo ficará mais fácil usar o python para a ánalise dos dados com o python, devido a uma base de conhecimento!!!
 
 <p> </p>
 <p align=center> ESTRUTURA DO CURSO </p>
