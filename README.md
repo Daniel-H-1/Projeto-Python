@@ -11,6 +11,8 @@ desse modo ficará mais fácil usar o python para a ánalise dos dados com o pyt
  - PLATAFORMA: Curso em Vídeo.
  - PROFESSOR:  Gustavo Guanabara.
  - CARGA HORÁRIA: 120 Horas.
+ - AULAS: 24.
+ - EXERCÍCIOS PRÁTICOS: 117.
 
 MUNDO 1
  - Conteúdo Teórico: 
