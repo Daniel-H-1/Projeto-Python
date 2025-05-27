@@ -68,4 +68,4 @@ MUNDO 3
    - 8 aulas Téoricos.
    - 46 exercícios Práticos. 
 - Tempo de Realização:
-   - As aulas e os exercícios estão sendo realizados, início 10/05/2022.
+   - As aulas e os exercícios estão sendo realizados, início 10/05/2022 - Congelado em 17/07/2022 - Retomado em 23/05/2025
