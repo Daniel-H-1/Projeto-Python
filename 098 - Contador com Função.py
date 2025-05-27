@@ -1,3 +1,5 @@
+from time import sleep
+
 # Criando a Função do Título
 def escreva_titulo(titulo):
     print(' ')
@@ -16,12 +18,14 @@ def contadores_padrao():
     print('')
     print('Contagem Crescente')
     for num in range(1, 10, 1):
-        print(num)
+        print(f'{num}', end='', flush=True)
+        sleep(1)
 
     print('')
     print('Contagem Descrescente')
     for num in range(10, 0, -2):
-        print(num)
+        print(f'{num}', end='', flush=True)
+        sleep(1)
 
 # Função de Contador Personalizada com os Dados do
 def contador_personalizado(inicio, fim, passos):
@@ -30,7 +34,8 @@ def contador_personalizado(inicio, fim, passos):
     if passos == 0:
         passos = 1
     for num in range(inicio, fim, passos):
-        print(num)
+        print(f'{num}', end='', flush=True)
+        sleep(1)
     print('')
 
 escreva_titulo(' INSTRUÇÕES DO DESAFIO ')
