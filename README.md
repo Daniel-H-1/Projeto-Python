@@ -1,4 +1,4 @@
-# Projeto:  100 Exercícios de Python 3
+# Projeto:  100 Exercícios de Python
 
 <p align="center"> OBJETIVO DO PROJETO </p>
 Este projeto começou com o intuito de conhecer o Python, que é uma linguagem de programação importante,
@@ -66,6 +66,4 @@ MUNDO 3
    - 5 exercícios de Tratamento de Erros.
 - Conteúdo Total:
    - 8 aulas Téoricos.
-   - 46 exercícios Práticos. 
-- Tempo de Realização:
-   - As aulas e os exercícios estão sendo realizados, início 10/05/2022 - Congelado em 17/07/2022 - Retomado em 23/05/2025
+   - 46 exercícios Práticos.
